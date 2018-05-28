@@ -1,7 +1,5 @@
-Ejemplo                                                                                                                                                                 
-==========
-
-[![Build Status](https://nicopaez.ci.cloudbees.com/view/Algo3/job/proyecto-base-aglo3/badge/icon)](https://nicopaez.ci.cloudbees.com/view/Algo3/job/proyecto-base-aglo3/)
+TP1 Java [![Build Status](https://travis-ci.org/cruzpa/asdf.svg?branch=master)](https://travis-ci.org/cruzpa/asdf)
+=====
 
 Este proyecto es un simple ejemplo que muestra un proyecto base en Java para la material Algo3.
 
